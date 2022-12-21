@@ -1,58 +1,11 @@
 {
   "users": [
     {
-      "email": "olivier@mail.com",
-      "password": "$2a$10$LDiOXJBbPMx9uqkbgcOitepGqnMVg8TIQ8uhSGU8BXZ9LnZWknCmO",
-      "nickName": "Bruno",
+      "email": "admin@gmail.com",
+      "password": "$2a$10$MG3A56K/U3n6krD1FrKyWO1mrVw2u0XJXq0Azye2ynyNLARAm03TK",
+      "nickName": "admin",
       "roleId": 1,
-      "id": 1
-    },
-    {
-      "email": "jackhellowin@gmail.com",
-      "password": "$2a$10$1Z4yFkTeIIdfW3Iye4nJsu.PGMc2z2fa7R6tsUzgRS4ZSBhAsJNmq",
-      "nickName": "Yve",
       "id": 2
-    },
-    {
-      "email": "jackhellowin.cn@gmail.com",
-      "password": "$2a$10$IaAaWP7RV9PhZ96s9RLR1O0rWrZnv0GN4MbOoWH5f0heFc8aDu2DG",
-      "nickName": "dsaiob",
-      "id": 3
-    },
-    {
-      "email": "jackhellowin.vn@gmail.com",
-      "password": "$2a$10$GfNhu7VHDF1TGD4qPCLUfuWpDwN7f4VBzSX.e1VaKy5mLxDCSbfbK",
-      "nickName": "Yve_dsaiob",
-      "roleId": 1,
-      "id": 4
-    },
-    {
-      "email": "jackhellowin.vvn@gmail.com",
-      "password": "$2a$10$v8IRiakhLLFTpOWcnb4mz.0ThhDGJjJllukdny2QZbyKTI.c8oyKC",
-      "nickName": "嗨搜優",
-      "roleId": 2,
-      "id": 5
-    },
-    {
-      "email": "jackhellowin.vhvn@gmail.com",
-      "password": "$2a$10$5sB3jGdhMWB9S2MRBkD4veQs9Y2.8UaSTUhiuBg4kkdenzXkKxGSW",
-      "nickName": "嗨搜優",
-      "roleId": 2,
-      "id": 6
-    },
-    {
-      "email": "jackhellowin.cnn@gmail.com",
-      "password": "$2a$10$.vUrysmgS561KJIoTh9BO.Wk8F/UGiJ5Sfqxt4qjpjtTfN2NEDpUy",
-      "nickName": "12313",
-      "roleId": 2,
-      "id": 7
-    },
-    {
-      "email": "jackhellowin.vvcn@gmail.com",
-      "password": "$2a$10$YvL9f3lvvBGa5Hv973rt4OU9G6w2WUnQWoNH4exf3pY36pLzzW1Zq",
-      "nickName": "5456",
-      "roleId": 2,
-      "id": 8
     }
   ],
   "roles": [
@@ -150,6 +103,14 @@
         3,
         8
       ]
+    },
+    {
+      "userId": 9,
+      "attractionId": [
+        2,
+        5
+      ],
+      "id": 2
     }
   ],
   "posts": [

@@ -156,7 +156,7 @@
       "imgLink": "https://i.imgur.com/OJ9Edmt.jpeg",
       "title": "GrandMaSam Dine",
       "description": "山姆大嬸餐館，獨樹一格的菜餚與經營方式，一定讓體驗過的您難以忘懷",
-      "tags": ["前後台", "Vue3", "Vue_cli", "Bootstrap5"],
+      "tags": ["Vue3", "Vue_cli", "Bootstrap5"],
       "gitHubUrl": "https://github.com/Bruno-Yu/GrandMaSam_Diner_renewed.git",
       "gitPageUrl": "https://bruno-yu.github.io/GrandMaSam_Diner_renewed/",
       "content": "獨立專案，前後台分離架構，單頁應用（SPA），實現 CRUD 操作，響應式設計，內容管理功能，串接 RESTful AP。",

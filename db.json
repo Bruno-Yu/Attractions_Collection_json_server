@@ -166,7 +166,7 @@
       "imgLink": "https://i.imgur.com/wYioffJ.jpeg",
       "title": "THE F2E 2022 黑客松官網重製",
       "description": "THE F2E 2022 黑客松",
-      "tags": ["ejs", "gulp", "Tailwind", "GSAP", "AOS", "Lottie"],
+      "tags": ["gulp", "ejs", "Tailwind", "GSAP", "AOS", "Lottie"],
       "gitHubUrl": "https://github.com/Bruno-Yu/TheF2E_2022_week1.git",
       "gitPageUrl": "https://bruno-yu.github.io/TheF2E_2022_week1/",
       "content": "參與THE F2E 2022 黑客松挑戰，使用ejs作為模板引擎，搭配gulp自動化流程，並使用Tailwind和GSAP實現動態網頁效果。",

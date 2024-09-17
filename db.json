@@ -164,7 +164,7 @@
     },
     {
       "imgLink": "https://i.imgur.com/wYioffJ.jpeg",
-      "title": "THE F2E 2022",
+      "title": "THE F2E 2022 黑客松官網重製",
       "description": "THE F2E 2022 黑客松",
       "tags": ["ejs", "gulp", "Tailwind", "GSAP", "AOS", "Lottie"],
       "gitHubUrl": "https://github.com/Bruno-Yu/TheF2E_2022_week1.git",
@@ -174,7 +174,7 @@
     },
     {
       "imgLink": "https://i.imgur.com/jSuGlRX.png",
-      "title": "THE F2E 2022",
+      "title": "THE F2E 2022 Dotsign",
       "description": "THE F2E 2022 點點簽",
       "tags": [
         "Vue 3",
@@ -193,7 +193,7 @@
     },
     {
       "imgLink": "https://i.imgur.com/eKNzPrX.png",
-      "title": "2022 F2E 黑客松 week3",
+      "title": "2022 F2E 黑客松 Scrum",
       "description": "2022 F2E 黑客松挑戰，一週內根據設計稿建立出 Scrum 精神介紹網站",
       "tags": ["Vue 3", "Vue CLI", "Pinia", "Tailwind"],
       "gitHubUrl": "https://github.com/Bruno-Yu/TheF2E_2022_scrum_quickguide.git",

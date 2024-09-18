@@ -127,9 +127,9 @@
       "title": "個人網站",
       "description": "透過此個人網站展示作品集，順便鍛鍊新技術。",
       "tags": ["React", "Redux", "flowbite"],
-      "gitHubUrl": "https://github.com/Bruno-Yu/resume_renew.git",
+      "gitHubUrl": "https://github.com/Bruno-Yu/self_blog.git",
       "gitPageUrl": "https://bruno-yu.github.io/self_blog/",
-      "content": "以React為核心框架，利用Redux管理狀態，並搭配Flowbite構建網站的UI設計，旨在展示作品集的同時提升技術。",
+      "content": "以React為核心框架，利用Redux管理狀態，並搭配Flowbite構建網站的UI設計，API 則是用 JSON Server 對接資料，旨在展示作品集的同時熟練技術。",
       "imgUrl": "https://i.imgur.com/WMejxmI.png"
     },
     {
@@ -214,7 +214,7 @@
   ],
   "self-content": {
     "briefIntro": "Hi! 我是 Bruno",
-    "about": "來自臺南市的前端開發工程師，擁有近兩年的前端開發與專案管理經驗。我的技術專長涵蓋 Vue3、Nuxt3、Pinia 以及 React 等前端框架，並且熱衷於探索最新的技術與工具。我認為，技術應該是解決問題的工具，而非目標。因此，我不僅追求持續精進自己，也不斷思考如何以更聰明的方式解決複雜的問題。",
+    "about": "來自臺南市的前端開發工程師，擁有近兩年的前端開發與專案管理經驗。我的技術專長涵蓋 Vue3、React 等前端框架及其生態，並且熱衷於探索最新的技術與工具。我認為，技術應該是解決問題的工具，而非目標。因此，我不僅追求持續精進自己，也不斷思考如何以更聰明的方式解決複雜的問題。",
     "hashTags": ["WEB DEVELOPMENT", "FRONTEND DEVELOPER"]
   },
   "social-media": [
